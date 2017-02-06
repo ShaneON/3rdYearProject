@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="num_players">
+    <item>5-a-side</item>
+    <item>7-a-side</item>
+    <item>11-a-side</item>
+</string-array>
+
+</resources>

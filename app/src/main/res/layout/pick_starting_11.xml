@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="wrap_content"
+    android:layout_width="wrap_content"
+    android:touchscreenBlocksFocus="false">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp">
+
+            <CheckBox
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_alignParentRight="true"
+                android:text="N/A"
+                android:onClick="onCheckPlayerBox"
+                android:id="@+id/checkBoxStarting1"
+                android:layout_gravity="end"
+                android:textSize="22sp"
+                android:nestedScrollingEnabled="false" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <CheckBox
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:text="N/A"
+                android:layout_alignParentRight="true"
+                android:id="@+id/checkBoxStarting2"
+                android:layout_gravity="end"
+                android:textSize="22sp"
+                android:onClick="onCheckPlayerBox"
+                android:nestedScrollingEnabled="false" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <CheckBox
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:text="N/A"
+                android:layout_alignParentRight="true"
+                android:id="@+id/checkBoxStarting3"
+                android:layout_gravity="end"
+                android:textSize="22sp"
+                android:onClick="onCheckPlayerBox"
+                android:nestedScrollingEnabled="false" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <CheckBox
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:text="N/A"
+                android:layout_alignParentRight="true"
+                android:id="@+id/checkBoxStarting4"
+                android:layout_gravity="end"
+                android:textSize="22sp"
+                android:onClick="onCheckPlayerBox"
+                android:nestedScrollingEnabled="false" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <CheckBox
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_alignParentRight="true"
+                android:text="N/A"
+                android:id="@+id/checkBoxStarting5"
+                android:layout_gravity="end"
+                android:textSize="22sp"
+                android:onClick="onCheckPlayerBox"
+                android:nestedScrollingEnabled="false" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <CheckBox
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:text="N/A"
+                android:layout_alignParentRight="true"
+                android:id="@+id/checkBoxStarting6"
+                android:layout_gravity="end"
+                android:textSize="22sp"
+                android:onClick="onCheckPlayerBox"
+                android:nestedScrollingEnabled="false" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <CheckBox
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_alignParentRight="true"
+                android:id="@+id/checkBoxStarting7"
+                android:text="N/A"
+                android:layout_gravity="end"
+                android:textSize="22sp"
+                android:onClick="onCheckPlayerBox"
+                android:nestedScrollingEnabled="false" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <CheckBox
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_alignParentRight="true"
+                android:text="N/A"
+                android:id="@+id/checkBoxStarting8"
+                android:layout_gravity="end"
+                android:textSize="22sp"
+                android:onClick="onCheckPlayerBox"
+                android:nestedScrollingEnabled="false" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <CheckBox
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:text="N/A"
+                android:layout_alignParentRight="true"
+                android:id="@+id/checkBoxStarting9"
+                android:layout_gravity="end"
+                android:textSize="22sp"
+                android:onClick="onCheckPlayerBox"
+                android:nestedScrollingEnabled="false" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <CheckBox
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:text="N/A"
+                android:layout_alignParentRight="true"
+                android:id="@+id/checkBoxStarting10"
+                android:layout_gravity="end"
+                android:textSize="22sp"
+                android:onClick="onCheckPlayerBox"
+                android:nestedScrollingEnabled="false" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <CheckBox
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:text="N/A"
+                android:layout_alignParentRight="true"
+                android:id="@+id/checkBoxStarting11"
+                android:layout_gravity="end"
+                android:textSize="22sp"
+                android:onClick="onCheckPlayerBox"
+                android:nestedScrollingEnabled="false" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <CheckBox
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:text="N/A"
+                android:layout_alignParentRight="true"
+                android:id="@+id/checkBoxStarting12"
+                android:layout_gravity="end"
+                android:textSize="22sp"
+                android:onClick="onCheckPlayerBox"
+                android:nestedScrollingEnabled="false" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <CheckBox
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:text="N/A"
+                android:layout_alignParentRight="true"
+                android:id="@+id/checkBoxStarting13"
+                android:layout_gravity="end"
+                android:textSize="22sp"
+                android:onClick="onCheckPlayerBox"
+                android:nestedScrollingEnabled="false" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <CheckBox
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:text="N/A"
+                android:layout_alignParentRight="true"
+                android:id="@+id/checkBoxStarting14"
+                android:layout_gravity="end"
+                android:textSize="22sp"
+                android:onClick="onCheckPlayerBox"
+                android:nestedScrollingEnabled="false" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <CheckBox
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:text="N/A"
+                android:layout_alignParentRight="true"
+                android:id="@+id/checkBoxStarting15"
+                android:layout_gravity="end"
+                android:textSize="22sp"
+                android:onClick="onCheckPlayerBox"
+                android:nestedScrollingEnabled="false" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <CheckBox
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:text="N/A"
+                android:layout_alignParentRight="true"
+                android:id="@+id/checkBoxStarting16"
+                android:layout_gravity="end"
+                android:textSize="22sp"
+                android:onClick="onCheckPlayerBox"
+                android:nestedScrollingEnabled="false" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <CheckBox
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:text="N/A"
+                android:layout_alignParentRight="true"
+                android:id="@+id/checkBoxStarting17"
+                android:layout_gravity="end"
+                android:textSize="22sp"
+                android:onClick="onCheckPlayerBox"
+                android:nestedScrollingEnabled="false" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <CheckBox
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:text="N/A"
+                android:layout_alignParentRight="true"
+                android:id="@+id/checkBoxStarting18"
+                android:layout_gravity="end"
+                android:textSize="22sp"
+                android:onClick="onCheckPlayerBox"
+                android:nestedScrollingEnabled="false" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <CheckBox
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:text="N/A"
+                android:layout_alignParentRight="true"
+                android:id="@+id/checkBoxStarting19"
+                android:layout_gravity="end"
+                android:textSize="22sp"
+                android:onClick="onCheckPlayerBox"
+                android:nestedScrollingEnabled="false" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <CheckBox
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:text="N/A"
+                android:layout_alignParentRight="true"
+                android:id="@+id/checkBoxStarting20"
+                android:layout_gravity="end"
+                android:textSize="22sp"
+                android:onClick="onCheckPlayerBox"
+                android:nestedScrollingEnabled="false" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <CheckBox
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:text="N/A"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true"
+                android:id="@+id/checkBoxStarting21"
+                android:layout_gravity="end"
+                android:textSize="22sp"
+                android:onClick="onCheckPlayerBox"
+                android:nestedScrollingEnabled="false" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <CheckBox
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:text="N/A"
+                android:layout_alignParentRight="true"
+                android:id="@+id/checkBoxStarting22"
+                android:layout_gravity="end"
+                android:textSize="22sp"
+                android:onClick="onCheckPlayerBox"
+                android:nestedScrollingEnabled="false" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <CheckBox
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:text="N/A"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true"
+                android:id="@+id/checkBoxStarting23"
+                android:layout_gravity="end"
+                android:textSize="22sp"
+                android:onClick="onCheckPlayerBox"
+                android:nestedScrollingEnabled="false" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <Button
+                android:layout_width="100dp"
+                android:layout_height="50dp"
+                android:background="@drawable/buttonshape2"
+                android:text="Next >"
+                android:layout_marginBottom="25dp"
+                android:id="@+id/buttonNext"
+                android:layout_centerInParent="true"
+                android:onClick="goToPlayScreen"
+                />
+
+
+        </RelativeLayout>
+
+
+    </LinearLayout>
+</ScrollView>
